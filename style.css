@@ -113,7 +113,7 @@ body{
     background-color: var(--VeryDarkCyan);
 }
 
-@media(min-width: 1440px){
+@media(min-width: 1240px){
     .main-container{
         margin-top: 145px;
         margin-bottom: 145px;
